@@ -1,11 +1,11 @@
 # Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-
 
-### Aim :
+## Aim :
       To pick and place a regular shape using two finger gripper on the conveyor belt 
-### Equipment Required: 
+## Equipment Required: 
       Instrial manipulator , teach pendant and associated program platform , two finger dh gripper 
       
-### Theory: 
+## Theory: 
 
 A pick and place robot has several dedicated parts, such as:
 
@@ -20,7 +20,7 @@ Sensors: You can think of sensors as the eyes of the robots. The sensors do the 
 Controllers: Controllers synchronize and control the movement of different actuators of a robot, thereby being the brain behind the smooth robotic operation.
 
 
-### Two finger gripper 
+## Two finger gripper 
 
 DH-Robotics
 Adaptive Gripper AG-95 TM Kit
@@ -37,9 +37,9 @@ Force & position adjustment
 Self-locking
 
                   ![ag-95](https://user-images.githubusercontent.com/36288975/201618444-9b5a4749-9663-464d-814b-170217763a76.png)
-### Figure -01 DH gripper with two finger gripper 
-
-#### Specifications
+## Figure -01 DH gripper with two finger gripper 
+![](gripper.jpg)
+## Specifications
 
 Opening stroke	95mm
 Gripping force 	45-160N
@@ -52,10 +52,10 @@ Current	≤1.5A
 
 
 
-### Doosan M1013 industrial collaborative robot manipulator 
+## Doosan M1013 industrial collaborative robot manipulator 
 Doosan Robotics designs collaborative robots for all types of operators, from engineers to teachers to designers of industrial robotics solutions. There are currently 4 robotic arms in the range, including this M1013 ROS robotic arm. With 6 degrees of freedom and a total reach of 1,300 mm, the Doosan M1013 Robotic Arm offers the speed and precision of execution necessary for all types of automated operation.
 
-#### specifications 
+## Specifications 
 Technical specifications of the Doosan Robotics M1013 arm:
 Degrees of freedom: 6.
 Payload: 10 kg.
@@ -66,47 +66,34 @@ Operating temperature: 5–45 °C.
 Weight: 33 kg.
 Installation position: floor, ceiling, walls.
 
-
+## Figure -02 Doosan M1013 industrial collaborative robot manipulator 
 
 ![download](https://user-images.githubusercontent.com/36288975/201624230-89cc83ff-cecd-49ea-84c6-c67066e9d157.jpg)
 
-### Figure -02 Doosan M1013 industrial collaborative robot manipulator 
+## Figure -03 Jog
+![](jog.jpg)
+## Figure -04 Status
+![](status.jpg)
 
-#### Procedure : 
+## Figure -05 Workcell Manager
+![](workcell.jpg)
+
+## Procedure : 
 
 1. click on dart platfom icon ![image](https://user-images.githubusercontent.com/36288975/201621038-f1248586-5c20-40fd-8a74-68c7d8b44939.png)
 2. click on the internet interface 
 ![image](https://user-images.githubusercontent.com/36288975/201621235-3b8b46a9-3c19-4207-9ea2-6a7954eb6135.png)
-and click on the connect icon 
+and click on the connecter icon 
 
-3. click on the 
+## Program:
+![](1.jpg)
+![](2.jpg)
+![](3.jpg)
+## Output screen shots of pick and place :
+![](move1.jpg)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-### output video and screen shots of pick and place 
-
-
-
-
-
-
-
-### Results: 
+## Result: 
+Thus, the experiment to pick and place a regular shape using two finger gripper on the conveyor belt is sucessfully completed.
 
 
 
